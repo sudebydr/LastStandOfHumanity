@@ -1,0 +1,14 @@
+# MacOS
+.DS_Store
+
+# Unity
+Library/
+Temp/
+Obj/
+Logs/
+*.csproj
+*.sln
+*.user
+
+
+
